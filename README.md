@@ -78,3 +78,13 @@ Macaé e Região, Brasil
 ##### • Criei planilha eletrônica com os dados dos internos da ONG;
 ##### • Criei agenda de telefone eletrônica;
 ##### • Auxiliei presidente, tesoureiro e o contador da ONG nos cálculos trabalhistas dos colaboradores quando a mesma demitiu todos os funcionários ao final de 2007.
+
+## Formação Acadêmica
+
+### Universidade Federal do Rio de Janeiro (UFRJ)
+
+Ensino Superior - Farmácia [2008-2018] 
+
+### Colégio Moderno - GPI 
+
+Ensino Médio - Formação Geral [2003- 2005] 
