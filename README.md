@@ -1,7 +1,5 @@
 # Curriculum-Vitae
 
-My CV
-
 # Pedro Henrique de Azevedo Moreira
 Farmacêutico graduado na Universidade Federal do Rio de Janeiro
 
@@ -36,7 +34,7 @@ Macaé e Região, Brasil
 ##### • Elaboração de checklists de atividades;
 ##### • Elaboração de fluxogramas;
 ##### • Controle de produtividade dos colaboradores;
-##### • Implementação de métodos para aumento da produtividade doscolaboradores;
+##### • Implementação de métodos para aumento da produtividade dos colaboradores;
 ##### • Criação de Procedimentos Operacionais Padrão;
 ##### • Implantação de metodologias organizacionais para os arquivos dos setores;
 ##### • Receber, responder e encaminhar processos administrativos;
@@ -47,7 +45,6 @@ Macaé e Região, Brasil
 ### Receita Federal
 Secretário
 janeiro de 2008 - outubro de 2008 (10 meses)
-
 
 Macaé e Região, Brasil
 
@@ -74,23 +71,10 @@ Macaé e Região, Brasil
 ##### • Pagamentos e depósitos bancários.
 
 #### Realizações:
-##### • Reorganizei todo o arquivo reduzindo o tempo de procura de documentos;• Melhorei e modernizei todos os modelos de documentos;
+##### • Reorganizei todo o arquivo reduzindo o tempo de procura de documentos;
+##### • Melhorei e modernizei todos os modelos de documentos;
 ##### • Digitalizei todo a ficha funcional dos colaboradores;
 ##### • Criei planilha eletrônica com os dados dos colaboradores;
-##### • Criei planilha eletrônica com os dados dos internos da ONG;• Criei agenda de telefone eletrônica;
+##### • Criei planilha eletrônica com os dados dos internos da ONG;
+##### • Criei agenda de telefone eletrônica;
 ##### • Auxiliei presidente, tesoureiro e o contador da ONG nos cálculos trabalhistas dos colaboradores quando a mesma demitiu todos os funcionários ao final de 2007.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
