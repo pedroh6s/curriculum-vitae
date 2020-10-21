@@ -9,7 +9,6 @@ Farmacêutico graduado na Universidade Federal do Rio de Janeiro
 
 ### Prefeitura Municipal de Macaé
 Assistente de Administração e Logística fevereiro de 2010 - Present (10 anos 9 meses)
-
 Macaé e Região, Brasil
 
 #### Setores:
