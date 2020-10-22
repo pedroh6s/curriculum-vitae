@@ -51,7 +51,8 @@ Macaé e Região, Brasil
 #### Atribuições:
 
 ##### • Elaboração de modelos de documentos administrativos;
-##### • Elaboração de relatórios;• Elaboração de ofícios, memorandos e e-mails oficiais;
+##### • Elaboração de relatórios;
+##### • Elaboração de ofícios, memorandos e e-mails oficiais;
 ##### • Elaboração de planilhas de controle;
 ##### • Receber e encaminhar processos administrativos operando o sistema SAP;
 ##### • Controle da agenda da inspetora e do inspetor substituto.
