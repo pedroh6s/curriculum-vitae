@@ -32,7 +32,7 @@ Macaé e Região, Brasil
 
 • Setor Administrativo - Coordenadoria de Fiscalização de Posturas - SEMFAZ[03/2011 - 01/2014]
 
-• Setor Licenciamento - Coordenadoria de Fiscalização de Posturas -SEMFAZ [09/2010 - 02/2011]
+• Setor de Licenciamento - Coordenadoria de Fiscalização de Posturas -SEMFAZ [09/2010 - 02/2011]
 
 • Setor Administrativo - Coordenadoria de Fiscalização de Posturas - SEMFAZ[02/2010 - 09/2010]
 
