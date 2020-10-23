@@ -1,7 +1,30 @@
 # Curriculum-Vitae
 
 # Pedro Henrique de Azevedo Moreira
-Farmacêutico graduado na Universidade Federal do Rio de Janeiro
+
+• Macaé, RJ
+
+• +55 22 99876-1403
+
+• pedro.henrique.a.moreira@gmail.com
+
+• https://www.linkedin.com/in/phmoreira/
+
+• https://github.com/pedroh6s
+
+## Objetivo
+
+Contribuir para otimizações de rotinas e desenvolvimento de soluções.
+
+## Formação Acadêmica
+
+### Universidade Federal do Rio de Janeiro (UFRJ)
+
+Ensino Superior - Farmácia [2008-2018] 
+
+### Colégio Moderno - GPI 
+
+Ensino Médio - Formação Geral [2003- 2005] 
 
 ## Experiência
 
@@ -119,12 +142,3 @@ Macaé e Região, Brasil
 
 • Auxiliei presidente, tesoureiro e o contador da ONG nos cálculos trabalhistas dos colaboradores quando a mesma demitiu todos os funcionários ao final de 2007.
 
-## Formação Acadêmica
-
-### Universidade Federal do Rio de Janeiro (UFRJ)
-
-Ensino Superior - Farmácia [2008-2018] 
-
-### Colégio Moderno - GPI 
-
-Ensino Médio - Formação Geral [2003- 2005] 
