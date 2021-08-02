@@ -19,6 +19,7 @@ Contribuir para otimizações de rotinas e desenvolvimento de soluções.
 ## Experiência
 ### Muito+ Educação Profissional
 Professor [Novembro de 2020 - atualmente]
+
 • Elaborar em conjunto com a coordenação o plano de trabalho;
 
 • Realizar pesquisas bibliográficas;
