@@ -16,26 +16,27 @@
 
 Contribuir para otimizações de rotinas e desenvolvimento de soluções.
 
-## Formação Acadêmica
-
-### Universidade Federal do Rio de Janeiro (UFRJ)
-
-Ensino Superior - Farmácia [2008-2018] 
-
-### Colégio Moderno - GPI 
-
-Ensino Médio - Formação Geral [2003- 2005] 
-
 ## Experiência
+### Muito+ Educação Profissional
+Professor - Novembro de 2020 - atualmente
+• Elaborar em conjunto com a coordenação o plano de trabalho;
+
+• Realizar pesquisas bibliográficas;
+
+• Elaborar apresentações de slides;
+
+• Planejar aulas;
+
+• Ministrar aulas.
 
 ### Prefeitura Municipal de Macaé
-Assistente de Administração e Logística fevereiro de 2010 - atualmente (10 anos 9 meses)
+Concursado como Assistente de Administração e Logística fevereiro de 2010 - junho de 2021
 
-Macaé e Região, Brasil
+Atuando como analista de dados e de planejamento a partir de 2016.
 
 #### Setores:
 
-• Programa de Imunização - SEMUSA (06/2020 - atualmente)
+• Programa de Imunização - SEMUSA (06/2020 - 06/2021)
 
 • Coordenadoria de Planejamento - SEMUSA [02/2019 - 06/2020]
 
@@ -55,45 +56,37 @@ Macaé e Região, Brasil
 
 • Setor Administrativo - Coordenadoria de Fiscalização de Posturas - SEMFAZ[03/2011 - 01/2014]
 
-• Setor de Licenciamento - Coordenadoria de Fiscalização de Posturas -SEMFAZ [09/2010 - 02/2011]
+• Setor de Licenciamento - Coordenadoria de Fiscalização de Posturas - SEMFAZ [09/2010 - 02/2011]
 
 • Setor Administrativo - Coordenadoria de Fiscalização de Posturas - SEMFAZ[02/2010 - 09/2010]
 
 #### Atribuições:
 
-• Atendimento ao público;
+• Elaboração de dashboards em Excel e Power BI para storytelling com dados;
 
-• Elaboração de modelos de documentos administrativos;
+• Filtro, higienização, padronização e reorganização de dados para análise;
 
-• Elaboração de relatórios, ofícios, memorandos e e-mails oficiais;
+• Análise de padrões, tendências e correlações para gerar insights e auxiliar a tomada de decisão;
 
-• Elaboração de planilhas de controle;
+• Elaboração e gerenciamento de checklists, rotinas, procedimentos e projetos;
 
-• Elaboração de checklists de atividades;
+• Elaboração e monitoramento de KPIs;
 
-• Elaboração de fluxogramas;
+• Gestão de desempenho;
 
-• Controle de produtividade dos colaboradores;
+• Planejamento estratégico;
 
-• Implementação de métodos para aumento da produtividade dos colaboradores;
+• Treinamento de colaboradores.
 
-• Criação de Procedimentos Operacionais Padrão;
 
-• Implantação de metodologias organizacionais para os arquivos dos setores;
+#### Realizações:
 
-• Receber, responder e encaminhar processos administrativos;
+Elaboração e execução de aplicação de metodologias ágeis que resultaram em um aumento de 14,41% dos atendimentos e redução do custo de atendimento em 19,11% (segundo modelo farmacoeconômico adotado) na unidade.
 
-• Mentoria de jovens;
-
-• Elaboração de dashboards para tomada de decisões estratégicas;
-
-• Monitoramento de indicadores.
 
 ### Receita Federal
 Secretário
 janeiro de 2008 - outubro de 2008 (10 meses)
-
-Macaé e Região, Brasil
 
 #### Atribuições:
 
@@ -113,8 +106,6 @@ Macaé e Região, Brasil
 Assistente Administrativo
 agosto de 2007 - janeiro de 2008 (6 meses)
 
-Macaé e Região, Brasil
-
 #### Atribuições: 
 
 • Elaboração de modelos de documentos administrativos;
@@ -127,18 +118,12 @@ Macaé e Região, Brasil
 
 • Pagamentos e depósitos bancários.
 
-#### Realizações:
-• Reorganizei todo o arquivo reduzindo o tempo de procura de documentos;
+## Formação Acadêmica
 
-• Melhorei e modernizei todos os modelos de documentos;
+### Universidade Federal do Rio de Janeiro (UFRJ)
 
-• Digitalizei todo a ficha funcional dos colaboradores;
+Ensino Superior - Farmácia [2008-2018] 
 
-• Criei planilha eletrônica com os dados dos colaboradores;
+### Colégio Moderno - GPI 
 
-• Criei planilha eletrônica com os dados dos internos da ONG;
-
-• Criei agenda de telefone eletrônica;
-
-• Auxiliei presidente, tesoureiro e o contador da ONG nos cálculos trabalhistas dos colaboradores quando a mesma demitiu todos os funcionários ao final de 2007.
-
+Ensino Médio - Formação Geral [2003- 2005]
