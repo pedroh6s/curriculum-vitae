@@ -18,7 +18,7 @@ Contribuir para otimizações de rotinas e desenvolvimento de soluções.
 
 ## Experiência
 ### Muito+ Educação Profissional
-Professor - Novembro de 2020 - atualmente
+Professor [Novembro de 2020 - atualmente]
 • Elaborar em conjunto com a coordenação o plano de trabalho;
 
 • Realizar pesquisas bibliográficas;
@@ -30,35 +30,35 @@ Professor - Novembro de 2020 - atualmente
 • Ministrar aulas.
 
 ### Prefeitura Municipal de Macaé
-Concursado como Assistente de Administração e Logística fevereiro de 2010 - junho de 2021
+Concursado como Assistente de Administração e Logística [Fevereiro de 2010 - Junho de 2021] (11 anos e 5 meses)
 
-Atuando como analista de dados e de planejamento a partir de 2016.
+Atuando como analista de dados e de planejamento [Janeiro de 2016 - Junho de 2021] (5 anos e 6 meses)
 
 #### Setores:
 
-• Programa de Imunização - SEMUSA (06/2020 - 06/2021)
+• Programa de Imunização - SEMUSA [06/2020 - 06/2021] (1 ano e 1 mês)
 
-• Coordenadoria de Planejamento - SEMUSA [02/2019 - 06/2020]
+• Coordenadoria de Planejamento - SEMUSA [02/2019 - 05/2020] (1 ano e 4 meses)
 
-• Núcleo de Educação Permanente em Saúde - SEMUSA [02/2019 - 06/2020]
+• Núcleo de Educação Permanente em Saúde - SEMUSA [02/2019 - 05/2020] (1 ano e 4 meses)
 
-• Farmácia Hospitalar - Pronto Socorro Municipal - SEMUSA [04/2018 -01/2019]
+• Farmácia Hospitalar - Pronto Socorro Municipal - SEMUSA [04/2018 - 01/2019] (10 meses)
 
-• Farmácia Hospitalar - Hospital Público Municipal - SEMUSA [03/2018]
+• Farmácia Hospitalar - Hospital Público Municipal - SEMUSA [03/2018] (1 mês)
 
-• Farmácia Hospitalar/Comunitária - Pronto Socorro do Aeroporto - SEMUSA[01/2016 - 03/2018]
+• Farmácia Hospitalar/Comunitária - Pronto Socorro do Aeroporto - SEMUSA [01/2016 - 02/2018] (2 anos e 2 meses)
 
-• Coordenadoria de Lançamento Tributário - SEMFAZ [05/2015 - 12/2015]
+• Coordenadoria de Lançamento Tributário - SEMFAZ [05/2015 - 12/2015] (8 meses)
 
-• Coordenadoria Administrativa - SEMFAZ [08/2014 - 04/2015]
+• Coordenadoria Administrativa - SEMFAZ [08/2014 - 04/2015] (9 meses)
 
-• Setor de Licenciamento - Coordenadoria de Fiscalização de Posturas -SEMFAZ [02/2014 - 08/2014]
+• Setor de Licenciamento - Coordenadoria de Fiscalização de Posturas - SEMFAZ [02/2014 - 07/2014] (6 meses)
 
-• Setor Administrativo - Coordenadoria de Fiscalização de Posturas - SEMFAZ[03/2011 - 01/2014]
+• Setor Administrativo - Coordenadoria de Fiscalização de Posturas - SEMFAZ [03/2011 - 01/2014] (2 anos e 11 meses)
 
-• Setor de Licenciamento - Coordenadoria de Fiscalização de Posturas - SEMFAZ [09/2010 - 02/2011]
+• Setor de Licenciamento - Coordenadoria de Fiscalização de Posturas - SEMFAZ [10/2010 - 02/2011] (5 meses)
 
-• Setor Administrativo - Coordenadoria de Fiscalização de Posturas - SEMFAZ[02/2010 - 09/2010]
+• Setor Administrativo - Coordenadoria de Fiscalização de Posturas - SEMFAZ [02/2010 - 09/2010] (8 meses)
 
 #### Atribuições:
 
@@ -85,8 +85,7 @@ Elaboração e execução de aplicação de metodologias ágeis que resultaram e
 
 
 ### Receita Federal
-Secretário
-janeiro de 2008 - outubro de 2008 (10 meses)
+Secretário [Janeiro de 2008 - Outubro de 2008] (10 meses)
 
 #### Atribuições:
 
@@ -103,8 +102,7 @@ janeiro de 2008 - outubro de 2008 (10 meses)
 • Controle da agenda da inspetora e do inspetor substituto.
 
 ### Lar São Francisco de Assis
-Assistente Administrativo
-agosto de 2007 - janeiro de 2008 (6 meses)
+Assistente Administrativo [Agosto de 2007 - Janeiro de 2008] (6 meses)
 
 #### Atribuições: 
 
@@ -122,8 +120,8 @@ agosto de 2007 - janeiro de 2008 (6 meses)
 
 ### Universidade Federal do Rio de Janeiro (UFRJ)
 
-Ensino Superior - Farmácia [2008-2018] 
+Ensino Superior - Farmácia [2008 - 2018] 
 
 ### Colégio Moderno - GPI 
 
-Ensino Médio - Formação Geral [2003- 2005]
+Ensino Médio - Formação Geral [2003 - 2005]
